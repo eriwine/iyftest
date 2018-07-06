@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+    <activities>
+        <activity id="http://id.tincanapi.com/activity/ify-modules/card-example" type="http://activitystrea.ms/schema/1.0/game">
+            <name>Card Example</name>
+            <description lang="en-US">Swipe cards.</description>
+            <launch lang="en-us">index.html</launch>
+        </activity>
+    </activities>
+</tincan>
